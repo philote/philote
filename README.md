@@ -10,7 +10,6 @@ I'm a seasoned developer with a love for building cool and accessible tech. From
 - **Interests:** Traveling, Tabletop Roleplaying Games, UI/UX Design
 
 ## Get in Touch
-- [LinkedIn](https://linkedin.com/in/josephhopson)
 - [GitHub: philote](https://github.com/philote)
 - [Bluesky: ephson](https://bsky.app/profile/ephson.bsky.social)
 - [FoundryVTT: ephson](https://foundryvtt.com/community/ephson/packages)

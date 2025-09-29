@@ -1,6 +1,6 @@
 # Hi, I'm Joe (aka philote or ephson)!
 
-I'm a seasoned developer with a love for building cool and accessible tech. From dynamic startups to established companies, I've had the joy of crafting intuitive, user-friendly experiences. When I'm not coding, you can find me traveling or diving into a tabletop roleplaying game.
+I'm a seasoned product developer with a love for building cool and accessible tech. From dynamic startups to established companies, I've had the joy of crafting intuitive, user-friendly experiences. When I'm not coding, you can find me traveling or diving into a tabletop roleplaying game.
 
 ![philote's Stats](https://github-readme-stats.vercel.app/api?username=philote&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
